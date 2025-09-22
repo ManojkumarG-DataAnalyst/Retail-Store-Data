@@ -44,7 +44,7 @@ The dataset contains retail transactions including item details, customer IDs, p
 -  Most purchases were around 4 units, spending ₹100–₹200
 
 -  Month 3 showed highest growth (+2.7%); Months 7–10 declined
--  
+  
 
  ## Business Impact:
 
