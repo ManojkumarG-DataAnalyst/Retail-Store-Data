@@ -3,12 +3,12 @@
  
 This project explores a retail sales dataset to uncover customer behavior, category performance, and payment trends using Python.
 
- # 📦 Dataset
+ ##  Dataset:
 
 The dataset contains retail transactions including item details, customer IDs, prices, quantities, and payment methods.
 
  
-## 📌 Objectives:
+##  Objectives:
 
 
 -  Clean and preprocess raw retail data
@@ -20,7 +20,7 @@ The dataset contains retail transactions including item details, customer IDs, p
 -  Generate actionable business insights
 
 
-## 🧰 Tools Used:
+##  Tools Used:
 
  
 -  Python
@@ -33,7 +33,7 @@ The dataset contains retail transactions including item details, customer IDs, p
 
  
 
-## 📊 Key Insights:
+##  Key Insights:
 
 -  Day 1 had peak sales (~₹60,000); mid-month dips suggest promotion opportunities
 
@@ -46,7 +46,7 @@ The dataset contains retail transactions including item details, customer IDs, p
 -  Month 3 showed highest growth (+2.7%); Months 7–10 declined
 -  
 
- ## 📈 Business Impact
+ ## Business Impact:
 
  This analysis helps identify:
 
@@ -57,7 +57,7 @@ The dataset contains retail transactions including item details, customer IDs, p
 - Preferred payment methods for customer experience optimization
 
 
-## 📈 Visuals Included:
+##  Visuals Included:
 
 -  Daily sales trend
 
@@ -73,7 +73,7 @@ The dataset contains retail transactions including item details, customer IDs, p
 
  
 
-## 📂 Files
+## Files:
 
 -  `retail_store_analysis.ipynb`: Full notebook with code, analysis, and visualizations
 
